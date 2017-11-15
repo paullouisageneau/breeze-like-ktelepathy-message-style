@@ -1,4 +1,4 @@
-# KDE Breeze Dark Like Message Style For Telepathy IM
+# The Telepathy IM message style for KDE Breeze Dark Theme
 The Telepathy becomes with message styles that does not match Breeze Dark
 theme. So I create very simple theme that match colours of Breeze Dark theme.
 
