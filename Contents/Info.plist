@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>BreezeLike</string>
+
+	<key>CFBundleGetInfoString</key>
+	<string>0.1</string>
+
+	<key>AllowTextColors</key>
+	<false/>
+
+	<key>CFBundleIdentifier</key>
+	<string>com.github.burlog.breeze-like-ktelepathy-message-style</string>
+
+	<key>DefaultVariant</key>
+	<string>Dark</string>
+
+	<key>MessageViewVersion</key>
+	<integer>4</integer>
+
+	<key>DisableCombineConsecutive</key>
+	<false/>
+
+	<key>DefaultFontFamily</key>
+	<string>Noto Sans</string>
+
+	<key>DefaultFontSize</key>
+	<string>16</string>
+</dict>
+</plist>
